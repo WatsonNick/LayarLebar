@@ -27,8 +27,7 @@ class HomePage extends StatelessWidget {
             child: Column(
               children: [
                 SizedBox(height: MediaQuery.of(context).size.height * 0.1),
-                Image.asset('assets/image/noun-cinema-screen.png',
-                    width: double.infinity),
+                Image.asset('assets/image/noun-cinema-screen.png', width: 500),
                 SizedBox(height: MediaQuery.of(context).size.height * 0.1),
                 Align(
                   alignment: Alignment.topLeft,

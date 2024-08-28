@@ -9,7 +9,7 @@
 .history
 .svn/
 migrate_working_dir/
-apikey/apikey.dart
+lib/apikey/apikey.dart
 
 # IntelliJ related
 *.iml
